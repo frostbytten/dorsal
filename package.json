@@ -1,0 +1,16 @@
+{
+  "author": "Christopher Villalobos <christopher.villalobos@gmail.com>",
+  "name": "dorsal",
+  "description": "Grooveshark API - node.js style",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/frostbytten/dorsal.git"
+  },
+  "main": "index",
+  "engines": {
+    "node": "~v0.4.7"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
